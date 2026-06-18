@@ -32,7 +32,7 @@ class Solution {
             }
             temp = temp.next;
         }
-        temp0.next = (zeroListHead.next != null)? oneListHead.next: twoListHead.next;
+        temp0.next = (oneListHead.next != null)? oneListHead.next: twoListHead.next;
         temp1.next = twoListHead.next;
         temp2.next = null;
 
