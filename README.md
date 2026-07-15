@@ -8,10 +8,10 @@ This repository contains my solutions, detailed explanations, and learnings as I
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 190+
+- **Total Problems Solved**: 200+
 - **Topics Covered**: Arrays, Strings, Recursion, Linked Lists, Stacks & Queues, Binary Search, Bit Manipulation, and more.
 - **Main Platform**: LeetCode (along with standard problems)
-- **Consistency**: 193+ commits
+- **Consistency**: 237+ commits
 
 **Last Updated**: July 2026
 
@@ -28,6 +28,7 @@ This repository contains my solutions, detailed explanations, and learnings as I
 | [`recursion`](./recursion)    | Recursive patterns & backtracking                | Subsets, Permutations |
 | [`stacks-and-queues`](./stacks-and-queues) | Stack, Queue, Monotonic Stack                 | Parentheses, Next Greater Element |
 | [`string-problems`](./string-problems) | String manipulation & algorithms              | Palindromes, Substrings |
+| [`sliding-window-and-two-pointers`)](./sliding-window-and-two-pointers) | Sliding window problems combined with two pointers | medium, hard, nice subarrays|
 
 ---
 
