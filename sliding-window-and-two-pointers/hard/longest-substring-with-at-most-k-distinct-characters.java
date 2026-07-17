@@ -7,7 +7,7 @@ class Solution {
         for(int right = 0; right < s.length(); right++){
             map.put(s.charAt(right), map.getOrDefault(s.charAt(right), 0) + 1);
 
-            if(map.size() > k){
+            while(map.size() > k){
                 map.put(s.charAt(left), map.getOrDefault(s.charAt(left), 0) - 1);
                 if(map.get(s.charAt(left)) == 0){
                     map.remove(s.charAt(left));
