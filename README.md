@@ -8,7 +8,7 @@ This repository contains my solutions, detailed explanations, and learnings as I
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 200+
+- **Total Problems Solved**: 220+
 - **Topics Covered**: Arrays, Strings, Recursion, Linked Lists, Stacks & Queues, Binary Search, Bit Manipulation, and more.
 - **Main Platform**: LeetCode (along with standard problems)
 - **Consistency**: 237+ commits
@@ -28,7 +28,9 @@ This repository contains my solutions, detailed explanations, and learnings as I
 | [`recursion`](./recursion)    | Recursive patterns & backtracking                | Subsets, Permutations |
 | [`stacks-and-queues`](./stacks-and-queues) | Stack, Queue, Monotonic Stack                 | Parentheses, Next Greater Element |
 | [`string-problems`](./string-problems) | String manipulation & algorithms              | Palindromes, Substrings |
-| [`sliding-window-and-two-pointers`)](./sliding-window-and-two-pointers) | Sliding window problems combined with two pointers | medium, hard, nice subarrays|
+| [`sliding-window-and-two-pointers`](./sliding-window-and-two-pointers) | Sliding window problems combined with two pointers | medium, hard, nice subarrays|
+| [`greedy-algorithms`](./greedy-algorithms) | Greedy Problems covering basic, medium and some advanced problems | candy, n-meetings, railway platforms, etc.|
+| [`binary-trees-problems`](./binary-trees)| Binary trees standard problems including traversal, medium and hard problems | traversal, height, depth, construction|
 
 ---
 
