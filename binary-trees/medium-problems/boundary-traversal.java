@@ -58,7 +58,7 @@ class Solution {
     public List<Integer> boundary(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
         if(root == null) return ans;
-        ans.add(root.data);
+        if(!isLeaf(root))ans.add(root.data);
         leftBoundary(root, ans);
         bottomBoundary(root, ans);
         rightBoundary(root, ans);
