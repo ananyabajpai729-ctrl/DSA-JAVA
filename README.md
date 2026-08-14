@@ -31,6 +31,7 @@ This repository contains my solutions, detailed explanations, and learnings as I
 | [`sliding-window-and-two-pointers`](./sliding-window-and-two-pointers) | Sliding window problems combined with two pointers | medium, hard, nice subarrays|
 | [`greedy-algorithms`](./greedy-algorithms) | Greedy Problems covering basic, medium and some advanced problems | candy, n-meetings, railway platforms, etc.|
 | [`binary-trees-problems`](./binary-trees)| Binary trees standard problems including traversal, medium and hard problems | traversal, height, depth, construction|
+| [`binary-search-trees-problems`](./binary-search-trees)| BST problems include concept understanding, medium and subsequently hard problems| BST Iterator, two sum IV, lowest common ancestor |
 
 ---
 
