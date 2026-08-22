@@ -8,10 +8,10 @@ This repository contains my solutions, detailed explanations, and learnings as I
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 250+
+- **Total Problems Solved**: 270+
 - **Topics Covered**: Arrays, Strings, Recursion, Linked Lists, Stacks & Queues, Binary Search, Bit Manipulation, and more.
 - **Main Platform**: LeetCode (along with standard problems)
-- **Consistency**: 386+ commits
+- **Consistency**: 400+ commits
 
 **Last Updated**: July 2026
 
